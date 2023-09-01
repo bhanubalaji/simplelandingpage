@@ -1,0 +1,48 @@
+
+
+/* 
+.main3 .flowcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main3 .flowcontainer .step {
+    display: flex;
+    flex-direction: row;
+    width: 21vw;
+    margin: 5vh 5vw;
+
+}
+
+.main3 .flowcontainer .step1 {
+
+    position: relative;
+    left: -7vw;
+  
+}
+
+.main3 .flowcontainer .step2 {
+
+    position: relative;
+    left: 7vw;
+}
+
+.main3 .flowcontainer .step .data {
+    width: fit-content;
+}
+
+.main3 .flowcontainer .step img {
+    border-radius: 100%;
+    width: 11vw;
+    height: 23vh;
+}
+
+.line {
+    width: 2px;
+    height: 18vh;
+    background-color: black;
+    
+} */
+
+

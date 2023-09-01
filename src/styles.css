@@ -1,1 +1,30 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    overflow-x: hidden;
+   margin: 0px;
+}
+button{
+    cursor: pointer;
+    font-family: 'Metropolis-regular';
+
+}
+@font-face {
+    font-family: 'Metropolis-bold'; /* Name you want to give to the font family */
+    src: url('../src/assets/img/fonts/Metropolis-Bold.otf') format('opentype'); /* Relative path to the font file */
+  }
+  @font-face {
+    font-family: 'Metropolis-regular'; /* Name you want to give to the font family */
+    src: url('../src/assets/img/fonts/Metropolis-Regular.otf') format('opentype'); /* Relative path to the font file */
+  }
+  @font-face {
+    font-family: 'Metropolis-regitalic'; /* Name you want to give to the font family */
+    src: url('../src/assets/img/fonts/Metropolis-RegularItalic.otf') format('opentype'); /* Relative path to the font file */
+  }
+  @font-face {
+    font-family: 'Metropolis-medium'; /* Name you want to give to the font family */
+    src: url('../src/assets/img/fonts/Metropolis-Medium.otf') format('opentype'); /* Relative path to the font file */
+  }
+  @font-face {
+    font-family: 'Metropolis-semibold'; /* Name you want to give to the font family */
+    src: url('../src/assets/img/fonts/Metropolis-SemiBold.otf') format('opentype'); /* Relative path to the font file */
+  }
